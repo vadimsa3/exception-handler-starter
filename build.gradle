@@ -42,7 +42,6 @@ test {
 	ignoreFailures = true
 }
 
-
 publishing {
 	publications {
 		mavenJava(MavenPublication) {
